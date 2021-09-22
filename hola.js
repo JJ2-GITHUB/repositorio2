@@ -1,3 +1,3 @@
 funtion f_prueba(){
-alert(2);
+alert("2");
 }
