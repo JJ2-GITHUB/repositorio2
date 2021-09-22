@@ -1,3 +1,3 @@
 funtion f_prueba(){
-alert("222222");
+alert("22222233333");
 }
